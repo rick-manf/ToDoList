@@ -24,6 +24,8 @@ Questa lista tiene traccia delle attività da svolgere, dei miglioramenti futuri
 
 ## 🚧 Task in corso
 
+- Inserire @Description nei controllers
+
     //TODO!!!
 - [ ] Creata la relazione tra le entity ora vanno gestiti i service
 
