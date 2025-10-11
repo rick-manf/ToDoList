@@ -1,7 +1,7 @@
 package com.project.toDoList.mapper;
 
 import com.project.toDoList.dto.UserDTO;
-import com.project.toDoList.model.User;
+import com.project.toDoList.entity.User;
 
 public class UserMapper {
     public static UserDTO toDto(User user) {

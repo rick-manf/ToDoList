@@ -4,7 +4,7 @@ import com.project.toDoList.dto.UserCreateWithPasswordDTO;
 import com.project.toDoList.dto.UserDTO;
 import com.project.toDoList.mapper.UserMapper;
 import com.project.toDoList.mapper.UserWithPasswordMapper;
-import com.project.toDoList.model.User;
+import com.project.toDoList.entity.User;
 import com.project.toDoList.repository.UserRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.crypto.password.PasswordEncoder;

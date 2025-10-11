@@ -2,7 +2,6 @@ package com.project.toDoList.controller;
 
 import com.project.toDoList.dto.UserCreateWithPasswordDTO;
 import com.project.toDoList.dto.UserDTO;
-import com.project.toDoList.model.User;
 import com.project.toDoList.service.UserService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;

@@ -1,7 +1,7 @@
 package com.project.toDoList.mapper;
 
 import com.project.toDoList.dto.UserCreateWithPasswordDTO;
-import com.project.toDoList.model.User;
+import com.project.toDoList.entity.User;
 
 public class UserWithPasswordMapper {
     // This class is used to map the DTO with password

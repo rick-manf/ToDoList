@@ -1,4 +1,4 @@
-package com.project.toDoList.model;
+package com.project.toDoList.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

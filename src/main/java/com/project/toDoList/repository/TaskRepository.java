@@ -1,6 +1,6 @@
 package com.project.toDoList.repository;
 
-import com.project.toDoList.model.Task;
+import com.project.toDoList.entity.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

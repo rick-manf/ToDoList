@@ -1,7 +1,7 @@
 package com.project.toDoList.mapper;
 
 import com.project.toDoList.dto.TaskDTO;
-import com.project.toDoList.model.Task;
+import com.project.toDoList.entity.Task;
 
 public class TaskMapper {
 

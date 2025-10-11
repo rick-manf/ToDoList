@@ -1,14 +1,11 @@
 package com.project.toDoList.TaskRepository;
 
-import com.project.toDoList.model.Task;
+import com.project.toDoList.entity.Task;
 import com.project.toDoList.repository.TaskRepository;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.springframework.beans.factory.annotation.Autowired;
 
 import java.time.LocalDate;
-import java.util.Arrays;
-import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
