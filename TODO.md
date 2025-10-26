@@ -18,6 +18,7 @@ Questa lista tiene traccia delle attività da svolgere, dei miglioramenti futuri
 - [X] Aggiunta configurazione per TiDB (DB remoto)
 - [X] Collegare User e Task con una relazione `@ManyToOne` o `@OneToMany`
 - [X] Inserire @Description nei controllers
+- [ ]
 
 
 
