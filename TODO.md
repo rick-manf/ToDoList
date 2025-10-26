@@ -17,6 +17,7 @@ Questa lista tiene traccia delle attività da svolgere, dei miglioramenti futuri
 - [X] Aggiunto Lombok
 - [X] Aggiunta configurazione per TiDB (DB remoto)
 - [X] Collegare User e Task con una relazione `@ManyToOne` o `@OneToMany`
+- [X] Inserire @Description nei controllers
 
 
 
@@ -24,7 +25,6 @@ Questa lista tiene traccia delle attività da svolgere, dei miglioramenti futuri
 
 ## 🚧 Task in corso
 
-- Inserire @Description nei controllers
 
     //TODO!!!
 - [ ] Creata la relazione tra le entity ora vanno gestiti i service
