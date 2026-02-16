@@ -45,7 +45,7 @@ public class UserController {
             @ApiResponse(description = "Operazione riuscita", responseCode = "201")
     })
     @PostMapping
-    public ResponseEntity<UserCreateWithPasswordDTO> createUser(UserCreateWithPasswordDTO userDTO) {
+    public ResponseEntity<UserCreateWithPasswordDTO> createUser(@RequestBody UserCreateWithPasswordDTO userDTO) {
         return ResponseEntity.ok(userService.createUser(userDTO));
     }
 
